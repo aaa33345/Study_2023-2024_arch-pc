@@ -10,19 +10,23 @@ SECTION .bss
 buffer  resb    bufsize
  
 SECTION .text
-	x db 4
+
+SECTION .data
+
+	x db "5$"
+    xLEN $-equ 
  
 _start:
-	
-	mov	rbx,x
-        mov     rax,__NR_read   ; "read" function number
-        xor     rdi,rdi         ; console read file descriptior (0)
-        mov     rsi,buffer      ; buffer address
-        mov     rdx,bufsize     ; buffer size
-        syscall                 ; read from console (returns read bytes count in rax)
  
+        ;mov     rax,__NR_read   ; "read" function number
+        ;xor     rdi,rdi         ; console read file descriptior (0)
+        ;mov     rsi,buffer      ; buffer address
+        ;mov     rdx,bufsize     ; buffer size
+        ;syscall                 ; read from console (returns read bytes count in rax)
+
+        mov     rax,x  ; "write" function number
         mov     rdx,rax         ; number of bytes to write
-        mov     rax,__NR_write  ; "write" function number
+
         mov     rdi,1           ; console write file descriptior
         ; buffer address (rsi) is not changed
         syscall                 ; write to console

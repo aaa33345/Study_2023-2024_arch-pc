@@ -10,11 +10,9 @@ SECTION .bss
 buffer  resb    bufsize
  
 SECTION .text
-	x db 4
  
 _start:
-	
-	mov	rbx,x
+ 
         mov     rax,__NR_read   ; "read" function number
         xor     rdi,rdi         ; console read file descriptior (0)
         mov     rsi,buffer      ; buffer address
