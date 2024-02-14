@@ -15,11 +15,11 @@
  
 ### Описание лабороторной работы
 
-![Создал Makefile и 3 вида файлов](/home/sabegin/image/11.png){#fig:fig1 width=100%}
+![Создал Makefile и 3 вида файлов](image/11.png){#fig:fig1 width=100%}
 
-![удалил два файла кроме report.md с помощью clean](/home/sabegin/image/12.png){#fig:fig1 width=100%}
+![удалил два файла кроме report.md с помощью clean](image/12.png){#fig:fig1 width=100%}
 
-![Перенес Makefile и report.md на гитхаб](/home/sabegin/image/15.png){#fig:fig1 width=100%}
+![Перенес Makefile и report.md на гитхаб](image/15.png){#fig:fig1 width=100%}
 
 ### Вывод 
 
@@ -27,8 +27,8 @@
 
 ### Самостаятельная работа
 
-![Создал 2 Лабораторную в трех форматах и перенес на гитхаб](/home/sabegin/image/13.png){#fig:fig1 width=100%}
-![](/home/sabegin/image/16.png){#fig:fig1 width=100%}
+![Создал 2 Лабораторную в трех форматах и перенес на гитхаб](image/13.png){#fig:fig1 width=100%}
+![](image/16.png){#fig:fig1 width=100%}
 
 ### Вывод
 

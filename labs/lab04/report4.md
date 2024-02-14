@@ -14,22 +14,22 @@
 Научится создфвать и компилировать файлы .asm
 
 ### Описание лабороторной работы:
-![Создал hello.asm](/home/sabegin/image/21.png){#fig:fig1 width=100%}
+![Создал hello.asm](image/21.png){#fig:fig1 width=100%}
 
-![Написал и компилировал hello.asm](/home/sabegin/image/22.png){#fig:fig1 width=100%}
+![Написал и компилировал hello.asm](image/22.png){#fig:fig1 width=100%}
 
-![Hello Word!](/home/sabegin/image/23.png){#fig:fig1 width=100%}
+![Hello Word!](image/23.png){#fig:fig1 width=100%}
 
 ### Вывод:
 Научился создавать и компилировать .asm файлы
 
 ### Самостоятельная работа 
 
-![Скопировал с новым именем,объектировал,компонировал и изменил его, что-бы он выдавал фамилию-имя](/home/sabegin/image/24.png){#fig:fig1 width=100%}
+![Скопировал с новым именем,объектировал,компонировал и изменил его, что-бы он выдавал фамилию-имя](image/24.png){#fig:fig1 width=100%}
 
-![Сделал повторно](/home/sabegin/image/25.png){#fig:fig1 width=100%}
+![Сделал повторно](image/25.png){#fig:fig1 width=100%}
 
-![Отправил на гитхаб](/home/sabegin/image/26.png){#fig:fig1 width=100%}
+![Отправил на гитхаб](image/26.png){#fig:fig1 width=100%}
 
 ### Вывод:
 Повторил вышепройденный материал
@@ -38,4 +38,4 @@
 
 
 
-](/home/sabegin/image/21.png){#fig:fig1 width=100%}
+

@@ -15,15 +15,15 @@
 
 Описание работы:
 
-![Настроил git](/home/sabegin/image/1.png){#fig:fig1 width=100%}
+![Настроил git](image/1.png){#fig:fig1 width=100%}
 
-![Сгенерировал ключ, и закрепил его на гитхабе](/home/sabegin/image/2.png){#fig:fig1 width=100%}
+![Сгенерировал ключ, и закрепил его на гитхабе](image/2.png){#fig:fig1 width=100%}
 
-![](/home/sabegin/image/3.png){#fig:fig1 width=100%}
+![](image/3.png){#fig:fig1 width=100%}
 
-![Клонтровал директорий](/home/sabegin/image/4.png){#fig:fig1 width=100%}
+![Клонтровал директорий](image/4.png){#fig:fig1 width=100%}
 
-![Создал и соединил ветки lbs и lbs01](/home/sabegin/image/5.png){#fig:fig1 width=100%}
+![Создал и соединил ветки lbs и lbs01](image/5.png){#fig:fig1 width=100%}
 
 ### Выводы
 
@@ -31,7 +31,7 @@
 
 ### Cамостоятельная работаамостоятельная работа  
 
-![Загрузил 1 лабораторную на гитхаб, вторую загружупосле создания.](/home/sabegin/image/6.png){#fig:fig1 width=100%}
+![Загрузил 1 лабораторную на гитхаб, вторую загружупосле создания.](image/6.png){#fig:fig1 width=100%}
 
 ### Вывод
 Научился сохранять файлы в дериктории и отправлять их в гитхаб

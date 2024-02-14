@@ -17,19 +17,19 @@
 ### Описание лабороторной работы:
 
 
-![Создал lab6-1, и вывел результат](/home/sabegin/image/61.png){#fig:fig1 width=100%}
+![Создал lab6-1, и вывел результат](image/61.png){#fig:fig1 width=100%}
 
 
-![Создал lab6-2, и вывел результат](/home/sabegin/image/62.png){#fig:fig1 width=100%}
+![Создал lab6-2, и вывел результат](image/62.png){#fig:fig1 width=100%}
 
 
 ![Проверил, что будет если у чисел убрать апострофы и сменить iprintLF на iprint - две пустые строки и одна пустая строка](/home/sabegin/image/63.png){#fig:fig1 width=100%}
 
 
-![Создал lab6-3, и вывел результат](/home/sabegin/image/64.png){#fig:fig1 width=100%}
+![Создал lab6-3, и вывел результат](image/64.png){#fig:fig1 width=100%}
 
 
-![Создал variant, и вывел результат](/home/sabegin/image/65.png){#fig:fig1 width=100%}
+![Создал variant, и вывел результат](image/65.png){#fig:fig1 width=100%}
 
 
 
@@ -62,7 +62,7 @@
 ### Самомтоятельная работа:
 
 
-![Создал lab6-3, и проверил результат](/home/sabegin/image/66.png){#fig:fig1 width=100%}
+![Создал lab6-3, и проверил результат](image/66.png){#fig:fig1 width=100%}
 
 
 ### Вывод: 

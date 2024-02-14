@@ -17,12 +17,12 @@
 
 ### Описание работы:
 
-![Cоздал lab5-1.asm](/home/sabegin/image/51.png){#fig:fig1 width=100%}
+![Cоздал lab5-1.asm](image/51.png){#fig:fig1 width=100%}
 
 
-![Написал lab5-1.asm](/home/sabegin/image/52.png){#fig:fig1 width=100%}
+![Написал lab5-1.asm](image/52.png){#fig:fig1 width=100%}
 
-![](/home/sabegin/image/53.png){#fig:fig1 width=100%}
+![](image/53.png){#fig:fig1 width=100%}
 
 ### Вывод:
 
@@ -32,7 +32,7 @@
 
 ### Лабораторная работа
 
-![Файл in_out не подошол(у меня 64х процессор, а файл использует 32х), поэтому код нашел в интернете](/home/sabegin/image/54.png){#fig:fig1 width=100%}
+![Файл in_out не подошол(у меня 64х процессор, а файл использует 32х), поэтому код нашел в интернете](image/54.png){#fig:fig1 width=100%}
 
 ### Вывод:
 
